@@ -1,0 +1,9 @@
+.text-danger{
+    color: orangered;
+}
+div.err{
+    border-left: 5px solid red;
+    background: #eee;
+    color: orangered;
+    padding: 8px 10px;
+}
